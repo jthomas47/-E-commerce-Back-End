@@ -1,0 +1,16 @@
+# E-commerce Back End
+
+
+## Description
+Internet retail, also known as e-commerce, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated the substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. 
+
+The goal for this project was to to build the back end for an e-commerce site using Express.js and Sequalize. The database contains categories, products, and tags. The user will have the ability to: view all, veiw by id, create, update by id, and delete by id. 
+
+## Istallation
+go to https://github.com/jthomas47/-E-commerce-Back-End and
+navigate to the main page of the repository.
+Above the list of files, click Code then 
+Click Download ZIP.
+
+## Usage
+https://drive.google.com/file/d/1S1Sp-HbrbYjfqN-Z0Ki8v6tcn3GjrMUJ/view
